@@ -1,0 +1,26 @@
+RPG Club Sign In
+	Lo-Fi Wires
+	Hi-Fi Wires
+	Style Tile
+	Style Guide
+	Logo
+
+	Ability to Read
+	Ability to Create
+	Ability to Delete
+	Ability to Update
+	Firebase Authentication
+
+	User Stories
+	User Personas
+	Gulp Tasks
+	Gamification
+	Front-end Framework
+	
+	Error Handling
+	API
+	Compositions
+	Static Build Out
+	Precompiled Language
+
+

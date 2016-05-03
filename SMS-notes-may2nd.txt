@@ -1,0 +1,43 @@
+Intro to SMS
+	Who Am I?
+		Rachel
+			FS Web Grad
+			Programmer > Design
+			
+			Contact Info
+				rhigely@fullsail.edu
+				rhigleyfs@gmail.com
+
+	What are we going to be learning?
+		What is streaming media?
+		How streaming media can be used
+		How to develop a project using streaming media services
+
+	What are we going to be doing?
+		Building a multi-user application using rela-time data
+		Areas of Focus:
+			Real-time data between users
+			Designs and engagement
+			Improving overall development skills
+
+	Technologies we will be using
+		AngularJS
+			SPA FrameWork
+			Data Binding
+		
+		Socket.io OR Firebase
+			Real-time backend
+			Scalable
+
+	
+	Resources
+		http://flight-training.herokuapp.com/#/flights/SMS
+
+		http://rankr.firebaseapp.com
+
+
+	Things to research
+		Socket.io
+		Firebase
+		Angular 2
+		
