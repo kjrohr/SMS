@@ -1,0 +1,104 @@
+What is Streaming?
+	Data that is transferred in a contoinuous stream to a user from a provider.
+		Provider (server) sends data -> one or more clients receive the data.
+		Connection is always open.
+		Data is provided in small chunks.
+
+How many streaming services can you name?
+	Google Docs
+	Pandora
+	Netflix
+	iHeart Radio
+	Spotify
+	There are thousands
+
+Why Stream?
+	Advantages of Streaming
+		Deliver content to a large number of viewers
+		Copyright protections
+		Real-time delivery
+		Live broadcasting
+
+	Bandwidth Detection
+		Capable of responding to viewers limits
+		PResenting data that the view can handle
+
+	No Direct Paths
+		Difficult to downloda rich media
+
+History of Streaming
+	Before the internet
+		Radio
+		Muzak
+			Elevator streaming
+		Television
+
+	The Firsts
+		1993: Server Tire Damage Streamed the first live video event - Mbone
+
+	The era of players (1996-2002)
+		Windows Media Player
+		RealPlayer
+		Quicktime
+
+	Welcome Flash!
+		Brandable
+		Cross Platform
+		96% of browsers are compatible
+
+	Streaming as a service
+		Valentine's Day 2005 Youtube was born
+		First youtube video April 23, 2005
+
+	HTTP Video
+		Microsoft Smooth Streaming (2008)
+		Netflix (2008)
+	
+	Efforts to agree (2009)
+		Microsoft, Netflix, Apple + 50 others
+		April 2012 MPEG-DASH
+
+	Non-media formats
+		AJAX (2004)
+		Sockets (2011)
+
+	Where we are now
+		MPEG-DASH
+		HLS
+		Sockets
+
+Protocols
+	Transport - moving data
+	
+	TCP (Transmission Control Protocol)
+		Transport Protocol
+		Most ued protocol
+		Delivers data in order
+		MAnages the packets being sent
+		Resends lost data
+
+	UDP (User Datagram Protocol)
+		Transport Protocol
+		Delivers data as they arrive
+		No lasting contention
+		Fast and lightweight
+
+	RTP (Realtime transport protocol)
+		Application protocol
+
+	RTSP (Real time Streaming Protocol)
+		Application Protocol
+		Built on top of RTP
+		Allows for user control (play, stop, record, etc)
+
+	RTMP (Real time messaging protocol)
+		Application protocol
+		Propietary protocol for flash
+		built on top of tcp
+	
+	WebSocket
+		Application Protocol
+		Built on top of TCP
+		Keeps connection Open
+		Allows for two way communication
+
