@@ -12,7 +12,7 @@ RPG Club Sign In
 	Firebase Authentication
 
 	User Stories
-	User Personas
+	User Personas (Submitted)
 	Gulp Tasks
 	Gamification
 	Front-end Framework
