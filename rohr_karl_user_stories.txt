@@ -1,0 +1,18 @@
+Karl Rohr
+	As a developer and designer, I want to be able to offer people the tools to be able to get their belongings back so that a conflict will
+	be avoided.
+
+Lindsay Hampton
+
+
+Candace Johnson
+	As a user, I want a service that will help me get my stuff after a bad break up so that I won't have to deal with the mental anguish.
+
+Sergej Divnov
+	As a user, I want a service that will help me get my items back that I loan out to people, so a conflict isn't started.
+
+Ian Bay
+	As a user, I want a service that will recover any assets that my employees have taken and haven't returned in a timely manner, so
+	a conflict is avoided.
+
+
