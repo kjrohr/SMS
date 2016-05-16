@@ -2,7 +2,7 @@ Relationship Repo Sign In
 	Lo-Fi Wires (Completed)
 	Hi-Fi Wires (Completed)
 	Style Tile (Complete)
-	Style Guide
+	Style Guide (Submitted)
 	Logo (Completed)
 
 	Ability to Read
@@ -11,7 +11,7 @@ Relationship Repo Sign In
 	Ability to Update
 	Firebase Authentication
 
-	User Stories
+	User Stories (Submitted)
 	User Personas (Completed)
 	Gulp Tasks
 	Gamification
