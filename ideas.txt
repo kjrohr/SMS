@@ -1,9 +1,9 @@
-RPG Club Sign In
-	Lo-Fi Wires (Submitted)
-	Hi-Fi Wires (Submitted)
+Relationship Repo Sign In
+	Lo-Fi Wires (Completed)
+	Hi-Fi Wires (Completed)
 	Style Tile (Complete)
 	Style Guide
-	Logo (Submitted)
+	Logo (Completed)
 
 	Ability to Read
 	Ability to Create
@@ -12,7 +12,7 @@ RPG Club Sign In
 	Firebase Authentication
 
 	User Stories
-	User Personas (Submitted)
+	User Personas (Completed)
 	Gulp Tasks
 	Gamification
 	Front-end Framework

@@ -3,7 +3,8 @@ Karl Rohr
 	be avoided.
 
 Lindsay Hampton
-
+	As a designer, I want to be able to offer people a calming experience in a troubling time through the interface and design, so that users won't be
+	intimidated by our services.
 
 Candace Johnson
 	As a user, I want a service that will help me get my stuff after a bad break up so that I won't have to deal with the mental anguish.
