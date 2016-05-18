@@ -11,7 +11,7 @@ Relationship Repo Sign In
 	Ability to Update
 	Firebase Authentication
 
-	User Stories (Submitted)
+	User Stories (Needs to be resubmitted))
 	User Personas (Completed)
 	Gulp Tasks
 	Gamification
