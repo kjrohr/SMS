@@ -1,0 +1,122 @@
+Video Streaming
+	Stream Management
+		How you handle your video stream is super important.
+		
+		Considerations
+			Server side bandwidth
+			Client side bandwidth
+
+		Server Side Issues
+			Too many users
+			Data extremely large
+			Mis-configured server
+			ISP throttling bandwidth
+
+		Server Side Solutions
+			Restrict the number of users
+			Switch to less intensive streams
+			Upgrade servers to support more users
+
+		Client side bandwidth issues
+			Different connection speeds
+			Shared environments
+			Saturated networks
+			Hardware slow to decode stream
+
+		Client side bandwidth solutions
+			Bandwidth detection
+				Server determines best stream to give user based on bandwidth
+				Takes 2 seconds to determiner
+				Limit bandwidth if constantly done
+			
+	Media Delivery Types
+		Unicast
+			Each user has their own stream
+			User can control the stream
+
+		Multicast
+			All users are watching the same stream
+			Users can not control the stream
+
+		How Content is Delivered
+			1 A user visits a web page hosted on a web server and finds a file he'd like to see or hear
+
+			2 The web server sends a message to a streaming media server, requesting the specific file
+
+			3 The streaming server streans the file to the user
+
+	Encoding
+		Pick Two
+			Smooth Playback
+			High visual Quality
+			Lowest Load Time
+		
+		What is encoding
+			Converting an original video into one or more compressed streams
+				Original video 1080 @ 80mbs
+		
+	Server Options
+		Available Media Servers
+			Windows Media Services
+			Quick Time
+			Wowza
+			Adobe
+			Red5
+	
+		Windows Media Services
+			Pricing: Free for windows servers
+			Platforms: Windows
+			Server Language: .NET
+			Streaming Protocol: HTTP, RTSP, RTP, MMS
+			Recording Format: WMV
+
+		Quick Time
+			Pricing: Included into Mac OS X servers
+			Platform: Mac OSX
+			Streaming Protocol: RTP/RTSP
+			Recording Formats: A lot
+	
+		Wowza
+			Pricing: $55 per month/instance
+			Platforms: All major platforms
+			Server Language: Java
+			Streaming Protocols: All
+		
+		Adobe
+			Pricing: $995 standard/$4500 pro/$135 - 3096 per month
+			Platforms: Microsoft Windows Server/Linux/Linux Red had
+
+		Red5
+			Pricing: Free
+			Platforms: Windows, Ubuntu, Mac OSX, WAR, Gentoo
+			Server Language: Java
+			Streaming Protocol: RTMP
+			Recording Format: FLV
+
+		Live Streaming Options
+			YouTube Live
+			Ustream
+			Livestream
+
+		Youtube Live
+			Pricing: Free
+			Features: Cross browser, adaptive streams, rewind capabilities, embed on website, archives video on channel after event
+
+		Ustream
+			Pricing: Check their website
+	
+		Livestream
+			Pricing: $42/month, $199/month, $799/month, $1199/month
+
+
+	Youtube
+		Pricing: Free
+		Max Size: 128GB's verified account
+		Max Duration: 11 hours (verified account)
+		Features: Cross-browser, unlimited uploads, embed on website
+
+	Vimeo
+		Pricing: Free .5 gb's a week, $10/month 5gb a week, $199/year 20gb a week
+		Features: Cross-browser, unlimited video uploads (till space filled), embed on a website
+
+	
